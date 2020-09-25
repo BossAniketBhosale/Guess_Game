@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E1A65DF6-BA07-4C8E-8FE3-DEE158A4CC27}|Default">
+  <MonoDevelop.Ide.ItemProperties.Guess__Game PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Guess_Game/Program.cs">
+    <Files>
+      <File FileName="Guess_Game/Program.cs" Line="98" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Guess_Game" expanded="True">
+            <Node name="Guess_Game" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

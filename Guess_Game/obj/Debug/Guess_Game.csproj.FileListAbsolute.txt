@@ -1,0 +1,6 @@
+/Users/ainket/Projects/Guess_Game/Guess_Game/bin/Debug/Guess_Game.exe
+/Users/ainket/Projects/Guess_Game/Guess_Game/bin/Debug/Guess_Game.pdb
+/Users/ainket/Projects/Guess_Game/Guess_Game/obj/Debug/Guess_Game.csprojAssemblyReference.cache
+/Users/ainket/Projects/Guess_Game/Guess_Game/obj/Debug/Guess_Game.csproj.CoreCompileInputs.cache
+/Users/ainket/Projects/Guess_Game/Guess_Game/obj/Debug/Guess_Game.exe
+/Users/ainket/Projects/Guess_Game/Guess_Game/obj/Debug/Guess_Game.pdb
